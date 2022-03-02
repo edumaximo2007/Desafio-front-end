@@ -1,0 +1,14 @@
+:root{
+    --borda:#707070;
+    --branco:#FFFFFF;
+    --fundo-principal: #434343;
+    --titulo: #4A5D27;  
+    --cinza: #707070;
+    --sobre-img-borda: #313131;
+    --sub-titulo: #3A4C23;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}

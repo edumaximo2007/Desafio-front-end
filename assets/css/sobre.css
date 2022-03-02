@@ -1,0 +1,16 @@
+.sobre{
+    background: var(--cinza);
+    display: flex;
+     /* gap: 20px; */
+    justify-content: space-around;
+    padding: 30px 20px;
+    
+}
+
+
+@media screen and (max-width: 768px) {
+    .sobre{
+        flex-direction: column;   
+    }
+    
+}

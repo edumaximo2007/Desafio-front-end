@@ -1,0 +1,12 @@
+.sobre__paragrafo{
+    font-weight: 200;
+    font-size: 16px;
+}
+
+
+.sobre__paragrafo:nth-child(3){
+    font-weight: 500;
+}
+.sobre__paragrafo:nth-child(4){
+    font-style: italic;
+}

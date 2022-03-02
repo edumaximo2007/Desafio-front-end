@@ -1,0 +1,7 @@
+.container{
+    background: var(--fundo-principal);
+    color: var(--branco);
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+}
+

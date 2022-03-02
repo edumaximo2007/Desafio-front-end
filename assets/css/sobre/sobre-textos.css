@@ -1,0 +1,19 @@
+.sobre__textos{
+    width: 50%;
+    padding-right: 30px;
+    margin-right: 40px;
+}
+
+@media screen and (max-width: 1024px) {
+    .sobre__textos{
+        margin-right: 0;
+        padding-right: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .sobre__textos{
+        text-align: center;
+        width: 100%;
+    }
+}

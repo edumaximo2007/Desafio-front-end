@@ -1,0 +1,9 @@
+.sobre__caixa-imagem{
+    width: 40%;
+}
+
+@media screen and (max-width: 768px) {
+    .sobre__caixa-imagem{
+        width: 100%;
+    }
+}

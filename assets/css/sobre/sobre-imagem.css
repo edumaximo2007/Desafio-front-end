@@ -1,0 +1,38 @@
+.sobre__img{
+    border: 10px solid var(--sobre-img-borda);
+    border-radius: 250px;
+    background-size: cover;
+    height: 350px;
+    width: 350px;
+    align-items: center;
+}
+
+
+.sobre__imagem{
+    margin: 0 auto;
+    align-items: center;
+
+}
+ 
+
+@media screen and (max-width: 768px) {
+    .sobre__img{
+        width: 350px;
+        margin: 0 auto;
+    }
+}
+
+
+@media screen and (max-width: 500px) {
+    .sobre__img{
+        width: 250px;
+        height: 250px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .sobre__img{
+        width: 260px;
+        height: 260px;
+    }
+}

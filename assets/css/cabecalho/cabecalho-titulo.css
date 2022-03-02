@@ -1,0 +1,16 @@
+.cabecalho__titulo{
+    color: var(--titulo);
+    font-size: 60px;
+    font-weight: 800;
+    margin: 0;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 768px) {
+    .cabecalho__titulo{
+        color: var(--branco);
+        font-size: 30px;
+    }
+    
+}

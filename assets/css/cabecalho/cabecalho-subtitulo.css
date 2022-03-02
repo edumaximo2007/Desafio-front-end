@@ -1,0 +1,14 @@
+.cabecalho__subtitulo{
+    color: var(--sub-titulo);
+    font-weight: 400;
+    font-size: 24px;
+}
+
+@media screen and (max-width: 768px) {
+    .cabecalho__subtitulo{
+        color: var(--branco);
+        font-size: 18px;
+        text-align: center;
+    }
+    
+}
